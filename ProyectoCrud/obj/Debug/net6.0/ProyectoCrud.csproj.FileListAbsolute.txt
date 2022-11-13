@@ -1,0 +1,15 @@
+C:\Users\dajum\Desktop\curso siesa\PROGRAMACION ORIENTADA A ONBJETOS C#\ProyectoCrud\ProyectoCrud\obj\Debug\net6.0\ProyectoCrud.csproj.AssemblyReference.cache
+C:\Users\dajum\Desktop\curso siesa\PROGRAMACION ORIENTADA A ONBJETOS C#\ProyectoCrud\ProyectoCrud\obj\Debug\net6.0\ProyectoCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dajum\Desktop\curso siesa\PROGRAMACION ORIENTADA A ONBJETOS C#\ProyectoCrud\ProyectoCrud\obj\Debug\net6.0\ProyectoCrud.AssemblyInfoInputs.cache
+C:\Users\dajum\Desktop\curso siesa\PROGRAMACION ORIENTADA A ONBJETOS C#\ProyectoCrud\ProyectoCrud\obj\Debug\net6.0\ProyectoCrud.AssemblyInfo.cs
+C:\Users\dajum\Desktop\curso siesa\PROGRAMACION ORIENTADA A ONBJETOS C#\ProyectoCrud\ProyectoCrud\obj\Debug\net6.0\ProyectoCrud.csproj.CoreCompileInputs.cache
+C:\Users\dajum\Desktop\curso siesa\PROGRAMACION ORIENTADA A ONBJETOS C#\ProyectoCrud\ProyectoCrud\bin\Debug\net6.0\ProyectoCrud.exe
+C:\Users\dajum\Desktop\curso siesa\PROGRAMACION ORIENTADA A ONBJETOS C#\ProyectoCrud\ProyectoCrud\bin\Debug\net6.0\ProyectoCrud.deps.json
+C:\Users\dajum\Desktop\curso siesa\PROGRAMACION ORIENTADA A ONBJETOS C#\ProyectoCrud\ProyectoCrud\bin\Debug\net6.0\ProyectoCrud.runtimeconfig.json
+C:\Users\dajum\Desktop\curso siesa\PROGRAMACION ORIENTADA A ONBJETOS C#\ProyectoCrud\ProyectoCrud\bin\Debug\net6.0\ProyectoCrud.dll
+C:\Users\dajum\Desktop\curso siesa\PROGRAMACION ORIENTADA A ONBJETOS C#\ProyectoCrud\ProyectoCrud\bin\Debug\net6.0\ProyectoCrud.pdb
+C:\Users\dajum\Desktop\curso siesa\PROGRAMACION ORIENTADA A ONBJETOS C#\ProyectoCrud\ProyectoCrud\obj\Debug\net6.0\ProyectoCrud.dll
+C:\Users\dajum\Desktop\curso siesa\PROGRAMACION ORIENTADA A ONBJETOS C#\ProyectoCrud\ProyectoCrud\obj\Debug\net6.0\refint\ProyectoCrud.dll
+C:\Users\dajum\Desktop\curso siesa\PROGRAMACION ORIENTADA A ONBJETOS C#\ProyectoCrud\ProyectoCrud\obj\Debug\net6.0\ProyectoCrud.pdb
+C:\Users\dajum\Desktop\curso siesa\PROGRAMACION ORIENTADA A ONBJETOS C#\ProyectoCrud\ProyectoCrud\obj\Debug\net6.0\ProyectoCrud.genruntimeconfig.cache
+C:\Users\dajum\Desktop\curso siesa\PROGRAMACION ORIENTADA A ONBJETOS C#\ProyectoCrud\ProyectoCrud\obj\Debug\net6.0\ref\ProyectoCrud.dll
